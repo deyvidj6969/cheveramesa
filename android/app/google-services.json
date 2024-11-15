@@ -1,0 +1,82 @@
+{
+  "project_info": {
+    "project_number": "602643092439",
+    "project_id": "facturasya-73d2f",
+    "storage_bucket": "facturasya-73d2f.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:602643092439:android:58d825810aa09b6aeff192",
+        "android_client_info": {
+          "package_name": "com.example.engineering"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "602643092439-0ue9nhc3n5rtnp0jusadfi2oe7h55os1.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCUbDnJSRVM0lXuSqhqHv0FfBiIHSTsg2Q"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "602643092439-0ue9nhc3n5rtnp0jusadfi2oe7h55os1.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "602643092439-9n8p4fncnaujh7u2k9im1fm0m8en7jkb.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.myfristapponmac"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:602643092439:android:d9d16242cebcde48eff192",
+        "android_client_info": {
+          "package_name": "com.example.myfristapponmac"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "602643092439-0ue9nhc3n5rtnp0jusadfi2oe7h55os1.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCUbDnJSRVM0lXuSqhqHv0FfBiIHSTsg2Q"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "602643092439-0ue9nhc3n5rtnp0jusadfi2oe7h55os1.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "602643092439-9n8p4fncnaujh7u2k9im1fm0m8en7jkb.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.myfristapponmac"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
